@@ -1,0 +1,12 @@
+from PyQt5.QtGui import QColor
+from PyQt5.QtWidgets import QMainWindow, QDesktopWidget, QFrame
+from PyQt5 import Qt
+import random, sys
+from PyQt5.QtGui import QPainter
+from PyQt5.QtWidgets import QApplication
+from PyQt5.QtCore import Qt, pyqtSignal, QBasicTimer
+import os
+import sys
+from PyQt5.QtWidgets import QApplication, QWidget, QPushButton, QLabel
+import pygame
+from enum import Enum
